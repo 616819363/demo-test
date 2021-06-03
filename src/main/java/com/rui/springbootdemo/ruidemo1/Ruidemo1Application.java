@@ -9,7 +9,7 @@ public class Ruidemo1Application {
     public static void main(String[] args) {
 
         SpringApplication.run(Ruidemo1Application.class, args);
-
+//添加了注释
     }
 
 }
